@@ -11,3 +11,15 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var ThisYear = 2018;
+var BirthYear = 1991;
+
+var How_old_are_you = ThisYear - BirthYear;
+console.log(How_old_are_you);
+
+var Century = 2018 + 73;
+console.log(Century);
+
+var Missing_Years = 100 - 27;
+console.log(Missing_Years);
