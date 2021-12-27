@@ -17,3 +17,11 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var cats = 44;
+var lines = cats/6
+console.log(lines)
+var linesRound = Math.ceil(lines)
+console.log(linesRound)
+var missing_cat = (8*6)-44
+console.log(missing_cat)
